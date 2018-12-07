@@ -1,0 +1,21 @@
+{
+  "name": "lesson_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "clear"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm init"
+  },
+  "keywords": [
+    "clear"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
